@@ -1,4 +1,4 @@
-# Autobus
+# Autobusík
 
 Chvíli krokem, chvíli skokem,
 pojedeme busem.
