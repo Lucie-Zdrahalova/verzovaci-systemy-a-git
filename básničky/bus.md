@@ -3,7 +3,7 @@
 Chvíli krokem, chvíli skokem,
 pojedeme busem.
 
-Řidič mačká houkačku,
+Řidič mačká klakson,
 řeže každou zatáčku.
 
 
