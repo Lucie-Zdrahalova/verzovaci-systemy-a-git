@@ -1,1 +1,1 @@
-# DA podruhé
+# Lekce GITu
